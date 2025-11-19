@@ -1,0 +1,3 @@
+﻿  Hospital.cpp
+C:\Users\bpowel11\source\repos\Hospital\Hospital\Hospital.cpp(223,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Hospital.vcxproj -> C:\Users\bpowel11\source\repos\Hospital\x64\Debug\Hospital.exe
